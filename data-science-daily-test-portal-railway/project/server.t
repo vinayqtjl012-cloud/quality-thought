@@ -16,7 +16,23 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = Number(process.env.PORT) || 3000;
 
-app.use(express.json({ limit: "20mb" }));
+app.use(express.json({ limit: "100mb" }));
+
+   // Catch body-parser errors (e.g. payload too large / malformed JSON) as JSON
+   // instead of letting Express fall back to a raw HTML 500 response, which the
+   // frontend's `fetch` calls can't parse and surfaces as generic failure alerts.
+   app.use((err: any, _req: express.Request, res: express.Response, next: express.NextFunction) => {
+     if (err) {
+       console.error("[Express Backend] Body parsing error:", err.message);
+       res.status(err.status || 400).json({
+         error: err.type === "entity.too.large"
+           ? "Uploaded data (likely the interview video recording) was too large to process."
+           : "Malformed request body."
+       });
+       return;
+     }
+     next();
+   });
 
 // Lightweight health check for Railway's deploy health monitor / uptime checks.
 app.get("/api/health", (_req, res) => {
