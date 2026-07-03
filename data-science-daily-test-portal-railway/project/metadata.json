@@ -1,0 +1,6 @@
+{
+  "name": "Data Science Daily Test Portal - Quality Thought",
+  "description": "A comprehensive 200-day daily testing, tracking, and course management dashboard for Data Science classrooms.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

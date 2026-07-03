@@ -1,0 +1,73 @@
+{
+  "entities": {
+    "GlobalDb": {
+      "title": "Global Database",
+      "description": "Entire database state synced to Firebase as a fallback/operational backup.",
+      "type": "object",
+      "properties": {
+        "students": {
+          "type": "array",
+          "description": "List of student records in the portal"
+        },
+        "interviews": {
+          "type": "array",
+          "description": "List of AI interview logs"
+        },
+        "attendance": {
+          "type": "array",
+          "description": "Daily student attendance records"
+        },
+        "scheduledTests": {
+          "type": "array",
+          "description": "Tests created by the instructor"
+        },
+        "scheduledSubmissions": {
+          "type": "array",
+          "description": "Submissions made by the students"
+        }
+      }
+    },
+    "Student": {
+      "title": "Student",
+      "description": "A single student's enrollment, details, and score history.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "rollNumber": { "type": "string" },
+        "batch": { "type": "string" }
+      },
+      "required": ["id", "name", "rollNumber", "batch"]
+    },
+    "AIInterview": {
+      "title": "AI Interview",
+      "description": "A student's mock AI interview transcript, evaluation, and videoUrl.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "studentId": { "type": "string" },
+        "studentName": { "type": "string" },
+        "rollNumber": { "type": "string" },
+        "batch": { "type": "string" },
+        "subject": { "type": "string" },
+        "difficulty": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "studentId", "subject", "difficulty", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/app_state/global_db": {
+      "schema": { "$ref": "#/entities/GlobalDb" },
+      "description": "The entire synced snapshot of the app database state."
+    },
+    "/students/{studentId}": {
+      "schema": { "$ref": "#/entities/Student" },
+      "description": "Structured collection of enrolled students."
+    },
+    "/interviews/{interviewId}": {
+      "schema": { "$ref": "#/entities/AIInterview" },
+      "description": "Structured collection of AI mock interview sessions and recordings."
+    }
+  }
+}

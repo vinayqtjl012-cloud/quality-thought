@@ -1,0 +1,556 @@
+{
+  "batches": [
+    "Batch A (Data Science)",
+    "Batch B (AI & ML)",
+    "Batch C (Big Data)"
+  ],
+  "students": [
+    {
+      "id": "st-qid-1",
+      "name": "Bhargav Banothu",
+      "rollNumber": "QID/26-27/2127",
+      "email": "Bhargavbittu33@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-2",
+      "name": "Gunja Satyanarayana",
+      "rollNumber": "QID/26-27/2115",
+      "email": "sathi.7969@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-3",
+      "name": "Thammu Purna Sainadh",
+      "rollNumber": "QID/26-27/2107",
+      "email": "purnasainadhthammu@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-4",
+      "name": "Shaik Salma",
+      "rollNumber": "QID/26-27/2106",
+      "email": "721shaiksalma@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-5",
+      "name": "Kalluri Guru Mahendra",
+      "rollNumber": "QID/26-27/2105",
+      "email": "kalluriudaykrishna@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-6",
+      "name": "Vegolapu Saigeethanjali",
+      "rollNumber": "QID/26-27/2104",
+      "email": "saigeethanjalivegolapu@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-7",
+      "name": "Shaik Aziz Ahammad",
+      "rollNumber": "QID/26-27/2103",
+      "email": "shaikazeez28969@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-8",
+      "name": "Bhukya Pavan Nayak",
+      "rollNumber": "QID/26-27/2102",
+      "email": "pavannayakbhukya001@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-9",
+      "name": "Lalkota Hari Krishna",
+      "rollNumber": "QID/26-27/2095",
+      "email": "harikrishnagoud567@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-10",
+      "name": "Panchaparwala Mohitha",
+      "rollNumber": "QID/26-27/2065",
+      "email": "mohithapanchaparwala@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-11",
+      "name": "Yatham Lakshmi Narasimha",
+      "rollNumber": "QID/26-27/2048",
+      "email": "lakshminarasimhayatham@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-12",
+      "name": "Renati Devi Priyanka",
+      "rollNumber": "QID/26-27/2037",
+      "email": "renatidevi1@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-13",
+      "name": "Nalleru Veera Brahmam",
+      "rollNumber": "QID/26-27/2026",
+      "email": "brahmamnalleru@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-14",
+      "name": "Rajesh Kumar Kandakatla",
+      "rollNumber": "QID/26-27/2003",
+      "email": "krk.main@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-15",
+      "name": "BACHULA YASWANTH BABU",
+      "rollNumber": "QID/26-27/1999",
+      "email": "batchulayaswanth2004@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-16",
+      "name": "Naman Kumar",
+      "rollNumber": "QID/26-27/1960",
+      "email": "namansanjaykumar@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-17",
+      "name": "Omkar",
+      "rollNumber": "QID/26-27/1951",
+      "email": "omkarkaleru908@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-18",
+      "name": "Sanapathi Roopavathi",
+      "rollNumber": "QID/26-27/1947",
+      "email": "sanapathimounika734@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-19",
+      "name": "Devara Uma Maheswari",
+      "rollNumber": "QID/26-27/1946",
+      "email": "devaraumamaheswari999@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-20",
+      "name": "Seelam Malakonda",
+      "rollNumber": "QID/26-27/1940",
+      "email": "malakondaseelam11@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-21",
+      "name": "Arman Patro",
+      "rollNumber": "QID/26-27/1938",
+      "email": "armanpatro04@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-22",
+      "name": "Pappusetti Venkata Rajesh",
+      "rollNumber": "QID/26-27/1934",
+      "email": "mrrajeshrebal@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-23",
+      "name": "Chitte Mamatha",
+      "rollNumber": "QID/26-27/1925",
+      "email": "mamathachitte43@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-24",
+      "name": "LANDA SURYA KIRAN",
+      "rollNumber": "QID/26-27/1924",
+      "email": "landasuryakiran@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-25",
+      "name": "Sandyapogu Pavithra",
+      "rollNumber": "QID/26-27/1923",
+      "email": "pavisandyapogu@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-26",
+      "name": "Kadapa Tejaswini",
+      "rollNumber": "QID/26-27/1920",
+      "email": "kadapatejaswini1@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-27",
+      "name": "Mujahid Kandanuru",
+      "rollNumber": "QID/26-27/1915",
+      "email": "mohammedmujahid208@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-28",
+      "name": "Adiyarapu Murali",
+      "rollNumber": "QID/26-27/1914",
+      "email": "adiyarapumurali@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-29",
+      "name": "Praveen Kumar rayapudi",
+      "rollNumber": "QID/26-27/1904",
+      "email": "praveensha3949@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-30",
+      "name": "Kondapally Sheshkumar",
+      "rollNumber": "QID/26-27/1901",
+      "email": "kskumar.kmm02@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-31",
+      "name": "SHAIK MUSHARAF",
+      "rollNumber": "QID/26-27/1900",
+      "email": "shaik.musharaf2004@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-32",
+      "name": "Gadhegani Rajasri",
+      "rollNumber": "QID/26-27/1894",
+      "email": "rajasrigadheganii@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-33",
+      "name": "Phanindrababu Nallapu",
+      "rollNumber": "QID/26-27/1882",
+      "email": "babu.nallapu@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-34",
+      "name": "Neelima Ch",
+      "rollNumber": "QID/26-27/1850",
+      "email": "neelimach850@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-35",
+      "name": "Dasari Ramya",
+      "rollNumber": "QID/26-27/1845",
+      "email": "ramyadasari923@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-36",
+      "name": "N HARIPRIYA",
+      "rollNumber": "QID/26-27/1844",
+      "email": "haripriyanatteti808@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-37",
+      "name": "SHAIK MOHAMMAD SHAREEF",
+      "rollNumber": "QID/26-27/1843",
+      "email": "shareefshaik01786@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-38",
+      "name": "Liyakhat Ali",
+      "rollNumber": "QID/26-27/1824",
+      "email": "ali.liyakhat03@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-39",
+      "name": "Velluri Vamsi Krishna",
+      "rollNumber": "QID/26-27/1823",
+      "email": "vellurivamsikrishna2004@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-40",
+      "name": "Bojjagani Himabindu",
+      "rollNumber": "QID/26-27/1805",
+      "email": "himab9745@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-41",
+      "name": "Mujeeb",
+      "rollNumber": "QID/26-27/1799",
+      "email": "mujeebrah2021@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-42",
+      "name": "Beerla Aravind",
+      "rollNumber": "QID/26-27/1496",
+      "email": "beerlaaravind18@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-43",
+      "name": "Varsha Joshi",
+      "rollNumber": "QID/24-25/11153",
+      "email": "varshajoshi84@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-44",
+      "name": "Konala Vandan Kumar",
+      "rollNumber": "QID/26-27/2130",
+      "email": "k1222004kumar@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-45",
+      "name": "Batta Venu Gopala Krishna",
+      "rollNumber": "QID/26-27/2066",
+      "email": "battakrishna4567@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-46",
+      "name": "Bejawada Vamsi Krishna",
+      "rollNumber": "QID/26-27/1813",
+      "email": "vamsibezawada89@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-47",
+      "name": "Golukonda Kavya Sri",
+      "rollNumber": "QID/26-27/1807",
+      "email": "golukondakavya@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-48",
+      "name": "Swati",
+      "rollNumber": "QID/26-27/1800",
+      "email": "swathibhaswani21@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-49",
+      "name": "Elaboina Arjun",
+      "rollNumber": "QID/26-27/1425",
+      "email": "arjunelaboina999@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-50",
+      "name": "Paruchuri Sai Chand",
+      "rollNumber": "QID/24-25/11513",
+      "email": "saichandmoonmoon@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-51",
+      "name": "Geddada Sai Vinay",
+      "rollNumber": "QID/24-25/11512",
+      "email": "gsaivinay1228@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-52",
+      "name": "Appampally Ramya",
+      "rollNumber": "QID/26-27/2015",
+      "email": "ramyaappampally@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-53",
+      "name": "Valamala Navya",
+      "rollNumber": "QID/26-27/2111",
+      "email": "valamalanavyavalamala@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-54",
+      "name": "Kothuri Saiprasad",
+      "rollNumber": "QID/26-27/2039",
+      "email": "kotisss1234@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-55",
+      "name": "P Sathya Prakash",
+      "rollNumber": "QID/26-27/2016",
+      "email": "Sathyaprakashtubati@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-56",
+      "name": "Jerpati Pandu",
+      "rollNumber": "QID/26-27/2007",
+      "email": "ppandujerpati@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-57",
+      "name": "Hanuman Shankar Ghuge",
+      "rollNumber": "QID/26-27/1971",
+      "email": "hanumanghuge37@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-58",
+      "name": "BHUMANA SRINIVAS YADAV",
+      "rollNumber": "QID/26-27/1876",
+      "email": "bhumanasrinivas05@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-59",
+      "name": "Islavath Rajesh",
+      "rollNumber": "QID/26-27/1822",
+      "email": "rajesh08011@gmail.com",
+      "batch": "Batch A (Data Science)"
+    },
+    {
+      "id": "st-qid-60",
+      "name": "Racharla Poojitha",
+      "rollNumber": "QID/24-25/9854",
+      "email": "racharlapoojitha@gmail.com",
+      "batch": "Batch A (Data Science)"
+    }
+  ],
+  "locks": {
+    "Batch A (Data Science)": {
+      "batchName": "Batch A (Data Science)",
+      "unlockedCourses": [
+        "python"
+      ],
+      "unlockedDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "courseLockState": {
+        "python": false,
+        "numpy": true,
+        "pandas": true,
+        "ml": true,
+        "dl": true,
+        "nlp": true,
+        "genai": true,
+        "eda": true
+      }
+    },
+    "Batch B (AI & ML)": {
+      "unlockedCourses": [
+        "python",
+        "numpy"
+      ],
+      "unlockedDays": [
+        1,
+        2,
+        31,
+        32
+      ],
+      "courseLockState": {
+        "python": false,
+        "numpy": false,
+        "pandas": true,
+        "ml": true,
+        "dl": true,
+        "nlp": true,
+        "genai": true,
+        "eda": true
+      }
+    },
+    "Batch C (Big Data)": {
+      "unlockedCourses": [
+        "python"
+      ],
+      "unlockedDays": [
+        1
+      ],
+      "courseLockState": {
+        "python": false,
+        "numpy": true,
+        "pandas": true,
+        "ml": true,
+        "dl": true,
+        "nlp": true,
+        "genai": true,
+        "eda": true
+      }
+    }
+  },
+  "submissions": [
+    {
+      "id": "sub-1",
+      "studentId": "st-1",
+      "studentName": "Arjun Sharma",
+      "rollNumber": "DS2026-001",
+      "batch": "Batch A (Data Science)",
+      "dayNumber": 1,
+      "courseSlug": "python",
+      "score": 9,
+      "mcqScores": 7,
+      "codingSubmissions": [
+        {
+          "questionText": "Write a function 'find_primes(n)'...",
+          "submittedCode": "def find_primes(n):\n    primes = []\n    for i in range(2, n+1):\n        is_prime = True\n        for j in range(2, int(i**0.5)+1):\n            if i % j == 0:\n                is_prime = False\n                break\n        if is_prime:\n            primes.append(i)\n    return primes"
+        },
+        {
+          "questionText": "Write a function 'word_frequencies(sentence)'...",
+          "submittedCode": "def word_frequencies(sentence):\n    words = sentence.lower().split()\n    freq = {}\n    for w in words:\n        freq[w] = freq.get(w, 0) + 1\n    return freq"
+        }
+      ],
+      "submittedAt": "2026-06-18T10:15:30.000Z"
+    },
+    {
+      "id": "sub-2",
+      "studentId": "st-2",
+      "studentName": "Priya Patel",
+      "rollNumber": "DS2026-002",
+      "batch": "Batch A (Data Science)",
+      "dayNumber": 1,
+      "courseSlug": "python",
+      "score": 10,
+      "mcqScores": 8,
+      "codingSubmissions": [
+        {
+          "questionText": "Write a function 'find_primes(n)'...",
+          "submittedCode": "def find_primes(n):\n    return [x for x in range(2, n+1) if all(x % y != 0 for y in range(2, int(x**0.5)+1))]"
+        },
+        {
+          "questionText": "Write a function 'word_frequencies(sentence)'...",
+          "submittedCode": "def word_frequencies(sentence):\n    return {w: sentence.lower().split().count(w) for w in set(sentence.lower().split())}"
+        }
+      ],
+      "submittedAt": "2026-06-18T11:22:15.000Z"
+    },
+    {
+      "id": "sub-3",
+      "studentId": "st-4",
+      "name": "Ananya Rao",
+      "rollNumber": "AI2026-015",
+      "batch": "Batch B (AI & ML)",
+      "dayNumber": 1,
+      "courseSlug": "python",
+      "score": 8,
+      "mcqScores": 6,
+      "codingSubmissions": [],
+      "submittedAt": "2026-06-18T14:40:00.000Z"
+    }
+  ],
+  "quizzes": {}
+}
