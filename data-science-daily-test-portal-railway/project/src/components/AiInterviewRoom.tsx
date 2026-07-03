@@ -922,7 +922,14 @@ export default function AiInterviewRoom({
         fetchPastSessions(); // Reload list
         onRefreshContext?.(); // Sync parent context
       } else {
-        alert("Failed to synthesize the evaluation scorecard.");
+        let detail = "";
+   try {
+     const errBody = await res.json();
+     detail = errBody?.error ? `\n\n${errBody.error}` : "";
+   } catch {
+     // response wasn't JSON (e.g. a raw server error page); ignore
+   }
+   alert(`Failed to synthesize the evaluation scorecard.${detail}`);
       }
     } catch (e) {
       alert("Error occurred on final evaluation trigger.");
