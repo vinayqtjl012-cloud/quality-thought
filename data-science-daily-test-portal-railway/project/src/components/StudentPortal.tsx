@@ -3554,7 +3554,7 @@ export default function StudentPortal({ student, onLogout }: StudentPortalProps)
                   className="absolute inset-0 w-full h-full border-0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen
-                  referrerPolicy="no-referrer"
+                 referrerPolicy="strict-origin-when-cross-origin"
                 />
               ) : (
                 <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-6 space-y-4">
